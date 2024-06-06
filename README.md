@@ -1,2 +1,2 @@
 # RodrigoGallardo
-This is my personal profile readme
+This is my personal repository
